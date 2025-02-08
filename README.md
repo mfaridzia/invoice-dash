@@ -4,7 +4,7 @@ This project was bootstrapped with Create Next App.
 
 ## Live Demo
 
-[Demo](https://efishery-lists.netlify.app)
+[Demo]()
 
 ## Getting Started
 
@@ -30,3 +30,5 @@ Open http://localhost:3000 with your browser to see the result.
 - Zod (Schema Validation)
 
 # Explanation of Technical Decisions
+
+[Technical Decisions](EXPLANATION.md)
