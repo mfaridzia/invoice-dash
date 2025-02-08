@@ -1,0 +1,52 @@
+{
+  "name": "invoice-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/cache": "latest",
+    "@emotion/react": "latest",
+    "@emotion/server": "latest",
+    "@emotion/styled": "latest",
+    "@hookform/resolvers": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "@mui/material-nextjs": "latest",
+    "@mui/material-pigment-css": "latest",
+    "@mui/system": "latest",
+    "@mui/x-date-pickers": "^7.25.0",
+    "@types/react": "latest",
+    "autoprefixer": "^10.4.20",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "cmdk": "1.0.4",
+    "date-fns": "4.1.0",
+    "date-fns-jalali": "latest",
+    "dayjs": "^1.11.13",
+    "embla-carousel-react": "8.5.1",
+    "input-otp": "1.4.1",
+    "lucide-react": "^0.454.0",
+    "luxon": "latest",
+    "moment": "latest",
+    "moment-hijri": "latest",
+    "moment-jalaali": "latest",
+    "next": "14.2.16",
+    "next-themes": "^0.4.4",
+    "react": "^18",
+    "react-day-picker": "8.10.1",
+    "react-dom": "^18",
+    "react-hook-form": "latest",
+    "zod": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  }
+}
